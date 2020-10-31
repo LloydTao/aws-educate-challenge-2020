@@ -2,7 +2,7 @@
 
 > Learning diary for the AWS Educate University Challenge 2020.
 
-![image-20201031000052601](media\image-20201031000052601.png)
+![image-20201031000052601](media/image-20201031000052601.png)
 
 ## Introduction
 
@@ -10,7 +10,7 @@
 
 The aim is to score as many points as possible before the deadline. Points are collected through completing Cloud Career Pathways and Badges.
 
-![image-20201030235855977](media\image-20201030235855977.png)
+![image-20201030235855977](media/image-20201030235855977.png)
 
 ## Points
 
